@@ -40,7 +40,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🏖️ [Rio de Janeiro](roteiros/rio-de-janeiro.md) — 5 dias
+### 🏖️ [Rio de Janeiro](roteiros/rio-de-janeiro.md): 5 dias
 > Cristo, Pão de Açúcar, Lapa, praias épicas e a cidade mais fotogênica do mundo.
 - 🍽️ 8 restaurantes (Cervantes → Olympe)
 - 🏨 5 hospedagens (R$80 → R$2.500)
@@ -49,7 +49,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🍕 [São Paulo](roteiros/sao-paulo.md) — 4 dias
+### 🍕 [São Paulo](roteiros/sao-paulo.md): 4 dias
 > Capital gastronômica da América Latina. Cultura, arte, vida noturna e os melhores restaurantes do país.
 - 🍽️ 8 restaurantes (Mercadão → D.O.M.)
 - 🏨 4 hospedagens (R$70 → R$1.800)
@@ -60,7 +60,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🥁 [Salvador](roteiros/salvador.md) — 4 dias
+### 🥁 [Salvador](roteiros/salvador.md): 4 dias
 > Pelourinho, acarajé, axé e um povo que transforma qualquer esquina em festa.
 - 🍽️ 8 restaurantes (Acarajé da Dinha → Amado)
 - 🏨 5 hospedagens (R$65 → R$900)
@@ -69,7 +69,7 @@
 </td>
 <td width="50%" valign="top">
 
-### 🏝️ [Florianópolis](roteiros/florianopolis.md) — 5 dias
+### 🏝️ [Florianópolis](roteiros/florianopolis.md): 5 dias
 > 42 praias, dunas, lagoas, trilhas e ostras. A ilha da magia no sul do Brasil.
 - 🍽️ 7 restaurantes (Box 32 → Ostradamus)
 - 🏨 5 hospedagens (R$70 → R$4.000)
@@ -80,7 +80,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🍫 [Gramado](roteiros/gramado.md) — 3 dias
+### 🍫 [Gramado](roteiros/gramado.md): 3 dias
 > Europa brasileira: chocolate, fondue, vinícolas e o inverno mais charmoso do Brasil.
 - 🍽️ 7 restaurantes (Colosseo → La Caceria)
 - 🏨 5 hospedagens (R$80 → R$1.500)
@@ -128,7 +128,7 @@
 | 🏝️ Florianópolis | R$ 240 | R$ 770 | ⭐⭐⭐⭐ |
 | 🍫 Gramado | R$ 297 | R$ 967 | ⭐⭐⭐⭐ |
 
-> 💡 **Dica**: Salvador tem o melhor custo-benefício do Brasil — comida incrível por preços acessíveis!
+> 💡 **Dica**: Salvador tem o melhor custo-benefício do Brasil: comida incrível por preços acessíveis!
 
 ---
 
